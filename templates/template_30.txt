@@ -1,0 +1,8 @@
+Subject: Your Process is at 30%
+
+Dear {name} {surname},
+
+Great job! Your process is now at 30%. Stay motivated!
+
+Best regards,
+Team

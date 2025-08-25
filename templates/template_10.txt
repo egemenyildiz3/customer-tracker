@@ -1,0 +1,8 @@
+Subject: Your Process is at 10%
+
+Dear {name} {surname},
+
+Your current process is at 10%. Please continue your efforts.
+
+Best regards,
+Team

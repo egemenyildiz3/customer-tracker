@@ -1,0 +1,4 @@
+name,surname,email,age,job,process,isProcessEmailSent
+John,Doe,john.doe@example.com,32,Engineer,40,False
+Jane,Smith,jane.smith@example.com,28,Designer,30,True
+Bob,Brown,bob.brown@example.com,35,Manager,30,True

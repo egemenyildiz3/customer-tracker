@@ -1,0 +1,8 @@
+Subject: Your Process is at 20%
+
+Dear {name} {surname},
+
+Congratulations! Your process has reached 20%. Keep up the good work.
+
+Best regards,
+Team
