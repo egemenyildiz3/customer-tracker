@@ -20,11 +20,3 @@ A simple Python project for tracking customers and sending emails using template
 1. Configure your users in `users.csv`.
 2. Run `mailsender.py` to send emails.
 3. Check logs in `user_action_log.txt`.
-
-## Requirements
-
-- Python 3.x
-
-## License
-
-MIT
